@@ -1,7 +1,4 @@
 我的测试——Wang1ingOvO
-<<<<<<< HEAD
 我的第二次测试----wang1ingzzZ
 我的第三次测试----wangling
-=======
-我的第二次测试----wang1ingzzz
->>>>>>> 3a9028baf6dd976d92b221b98b8a9393ff18f3c1
+
